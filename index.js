@@ -1,3 +1,8 @@
+/**
+ * Event bot
+ * Copyright (c) 2020 Daniel ZHang | MIT License
+ */
+
 const fs = require("fs");
 const Discord = require("discord.js");
 const env = require("dotenv").config({ path: "./.env" }).parsed;

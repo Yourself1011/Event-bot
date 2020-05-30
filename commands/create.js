@@ -1,3 +1,8 @@
+/**
+ * Event bot
+ * Copyright (c) 2020 Daniel ZHang | MIT License
+ */
+
 const main = require("../index.js"),
   client = main.client,
   login = main.login,
